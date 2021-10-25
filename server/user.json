@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "fname": "samiksha",
+      "lname": "Gurav",
+      "username": "samgurav",
+      "email": "guravsamiksha17@gmail.com",
+      "pass": "123456",
+      "cpass": "123456",
+      "id": 1
+    },
+    {
+      "fname": "diya",
+      "lname": "mah",
+      "username": "diya",
+      "email": "diyamahto07@gmail.com",
+      "pass": "Diya@123",
+      "cpass": "Diya@123",
+      "id": 2
+    },
+    {
+      "fname": "Samiksha",
+      "lname": "Mahesh",
+      "username": "smgurav",
+      "email": "sam@gmail.com",
+      "pass": "Sam@123",
+      "cpass": "Sam@123",
+      "id": 3
+    }
+  ]
+}
